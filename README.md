@@ -1,96 +1,42 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Mood-O-Matic] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [#include]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
+- Member 1: [Silpa PM] - [College of Engineering Adoor]
+- Member 2: [Princy P] - [College of Engineering Adoor]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our fun project uses webcam-based facial expression detection to identify a person's facial expressions and instantly displaying a matching emoji on screen. It’s a lighthearted blend of computer vision and humor, proving technology can be both clever and playful.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[In today’s fast-paced digital world, many people experience stress, sadness, anger, and even early signs of depression due to work pressure, isolation, and constant screen time. These negative emotions often go unnoticed in virtual environments, leading to reduced productivity, poor communication, and declining mental well-being. There is a need for a light, engaging way to recognize emotions and uplift moods in real time.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Our project lightens the mood by instantly turning facial expressions into playful emojis, bringing humor and positivity to the moment. It helps reduce tension through instant, funny visual feedback, creating enjoyable moments whether during work, study, or casual chats. By encouraging smiles and fostering positive interactions, it transforms ordinary screen time into a more joyful and stress-free experience.It can also be adapted for mood tracking, stress detection, or adding playful elements to apps and games.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- [html,css,js]
+- [face-api.js]
+  
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Silpa PM]: [Project idea and Implementation]
+- [Princy P]: [Project idea and Implementation]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
